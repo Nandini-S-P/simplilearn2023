@@ -27,6 +27,25 @@ git branch branch2-2
 
 
 ( branch2) c-merge
+
+
+
+
+
+finally
+ 0a41018 (HEAD -> master) c1.1
+* a4c8b6e (branch1) c2-2-2
+* 4f8ac28 c2-2-1
+* a6da08d (branch2-2) c2-2
+* 5764984 c2-1
+*   fc94d3b c5
+|\  
+| * 484120f c1
+| * 00d04de c2
+* | fd7e0fe c4
+* | f20dc01 c3
+|/  
+
 (HEAD ->)c-final merge
 
 To check above 
