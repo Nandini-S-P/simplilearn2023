@@ -1,0 +1,33 @@
+make sure you are on master barnch
+ git checkout branch
+ git branch
+ git branch branch2
+ touch file2-1
+ git add .
+ git commit -m "c2-1"
+  
+touch file2-2
+ git add .
+ git commit -m "c2-2"
+
+touch file2-3
+ git add .
+ git commit -m "c2-3"
+
+git branch branch2-2
+
+ touch file2-2-1
+ git add .
+ git commit -m "c2-2-1"
+  
+
+ touch file2-2-2
+ git add .
+ git commit -m "c2-2-2"
+
+
+( branch2) c-merge
+(HEAD ->)c-final merge
+
+To check above 
+git log --oneline --graph
