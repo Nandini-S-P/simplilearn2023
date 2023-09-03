@@ -1,0 +1,2 @@
+Today is sep 3 2023
+I am trying to push new file to my git repo
